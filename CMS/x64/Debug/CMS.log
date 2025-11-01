@@ -1,0 +1,18 @@
+﻿  CMS.cpp
+C:\Users\WeiGe\Desktop\work\高级语言程序设计课程设计-商品管理系统-CMS（队长：陈立轩）\源代码\CMS.cpp(45,12): warning C4477: “scanf_s”: 格式字符串“%100s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+  C:\Users\WeiGe\Desktop\work\高级语言程序设计课程设计-商品管理系统-CMS（队长：陈立轩）\源代码\CMS.cpp(45,12):
+  此参数用作缓冲区大小
+  
+C:\Users\WeiGe\Desktop\work\高级语言程序设计课程设计-商品管理系统-CMS（队长：陈立轩）\源代码\CMS.cpp(221,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  C:\Users\WeiGe\Desktop\work\高级语言程序设计课程设计-商品管理系统-CMS（队长：陈立轩）\源代码\CMS.cpp(221,11):
+  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  C:\Users\WeiGe\Desktop\work\高级语言程序设计课程设计-商品管理系统-CMS（队长：陈立轩）\源代码\CMS.cpp(221,11):
+  缺失的可变参数 2 为格式字符串“%c”所需
+  C:\Users\WeiGe\Desktop\work\高级语言程序设计课程设计-商品管理系统-CMS（队长：陈立轩）\源代码\CMS.cpp(221,11):
+  此参数用作缓冲区大小
+  
+C:\Users\WeiGe\Desktop\work\高级语言程序设计课程设计-商品管理系统-CMS（队长：陈立轩）\源代码\CMS.cpp(294,11): warning C4477: “scanf_s”: 格式字符串“%100s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+  C:\Users\WeiGe\Desktop\work\高级语言程序设计课程设计-商品管理系统-CMS（队长：陈立轩）\源代码\CMS.cpp(294,11):
+  此参数用作缓冲区大小
+  
+  CMS.vcxproj -> C:\Users\WeiGe\Desktop\work\高级语言程序设计课程设计-商品管理系统-CMS（队长：陈立轩）\源代码\x64\Debug\CMS.exe

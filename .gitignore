@@ -1,0 +1,8 @@
+# 忽略VS自动生成的文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
