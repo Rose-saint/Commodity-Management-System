@@ -6,3 +6,7 @@
 *.sln.docstates
 bin/
 obj/
+.vs/
+bin/
+obj/
+NUL
